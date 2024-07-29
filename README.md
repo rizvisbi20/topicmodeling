@@ -1,1 +1,1 @@
-# topicmodeling
+Using text-as-data techniques, we apply the dictionary to a 15-year sample in the annual report texts. To validate our results, we employ a variety of strategies, including novel machine learning models.
